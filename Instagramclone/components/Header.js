@@ -23,7 +23,6 @@ function Header() {
                     />
                 </div>
 
-<h1>sjd</h1>
                 <div className='relative w-10  lg:hidden flex-shrink-0 cursor-pointer'>
                     <Image
                         src="https://links.papareact.com/jjm" layout="fill"
